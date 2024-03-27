@@ -1,5 +1,37 @@
 # Lesson 03
 
+Notes from AI:
+https://otter.ai/u/Od1ldXu-7GqahOkFkPeyQ1wJeV8?utm_source=va_chat_link_1
+
+
+
+TODO: Look up 2 types references in Rust
+
+
+Is there a REPL in Rust like Python?
+
+ - ChatGPT says: https://play.rust-lang.org/
+
+
+Generics: Parameterize datatypes
+
+
+Vectors: a type of collection
+ - `Vec::new()` <- empty vector
+ - `let v = vec![42,42,42]`
+
+
+
+Iterators
+ - use  `.iter()`
+ - can iterate via loop, or `.net()`
+
+
+
+Shadowing
+ - About scope in functions
+
+
 
 
 ## Working with the Solana CLI
@@ -52,8 +84,11 @@ solana transfer --from devnet-keypair.json 6rf4KrGYLvdz4DgMMkUAASKnEVJRJ3cEDa8fX
 solana confirm -v 2fbg2yJX2FPZaDzR5GoJyWBgFmfoBioceQoey7eh3wWBAPLYAkx73asPgPEUP1sZBX5RC96QBtFQXYpp4STXWMNL
 
 solana balance 6rf4KrGYLvdz4DgMMkUAASKnEVJRJ3cEDa8fXUhjFW1m --url https://api.devnet.solana.com
+```
 
+I wanted to recover the funds in the 2nd account, so I ran a recover
 
+```zsh
 solana-keygen recover -o devnet-keypair-02.json
 
 solana transfer --from devnet-keypair-02.json 24CFvjS6FE3LxZyKNVhGxXXV6N2zp2TWwP4eQ3ktV4XM 0.099995 --allow-unfunded-recipient --url https://api.devnet.solana.com --fee-payer devnet-keypair-02.json
