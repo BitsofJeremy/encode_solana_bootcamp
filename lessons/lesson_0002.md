@@ -14,7 +14,7 @@ https://otter.ai/u/2DeTnr4B2epI1WTGefQKW9yMEII?utm_source=va_chat_link_1
 Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana
 https://www.youtube.com/watch?v=rKGhbC6Uync
 
-white paper  [see page 3]
+Solana white paper  [see page 3]
 https://solana.com/solana-whitepaper.pdf
 
 
