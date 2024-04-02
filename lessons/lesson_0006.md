@@ -27,7 +27,8 @@ https://otter.ai/u/WJvewMRMLP2CU8eXhHut-2obpl0?utm_source=va_chat_link_1
 
 
 YOU ARE NOT BULLISH ENOUGH
-[TVL](tvl_screenshot.png)
+
+![TVL](tvl_screenshot.png)
 
 
  - Covered Token and Token-2022
