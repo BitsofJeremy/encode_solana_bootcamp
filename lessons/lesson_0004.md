@@ -8,6 +8,10 @@ see instructor notes as they are detailed and have screenshots:
 
 [Homework](../instructor_slide_notes_and_homework/Homework4.pdf)
 
+*update*
+
+[Homework Answers](../instructor_slide_notes_and_homework/Homework4Answers.pdf)
+
 
 Slido:
 https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ/live/questions
