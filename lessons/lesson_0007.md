@@ -11,11 +11,6 @@ https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ/live/questions
 
 
 
-### AI Notes
-
-Ask for permission
-
-
 ## Notes
 
  - Covered Compute Budget,PDAs
