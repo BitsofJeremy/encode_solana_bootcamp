@@ -20,8 +20,6 @@ https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ
  - explained defi, Cool!
 
 
-
-
 #### Links
 
 
@@ -34,6 +32,11 @@ https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-c
 
 
 ## Homework
+
+[Bootcamp Repo](https://github.com/ExtropyIO/SolanaBootcamp)
+
+*note: originally installed Rust via Homebrew and needed to re-install*
+
 
 
 
