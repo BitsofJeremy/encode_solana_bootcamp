@@ -37,6 +37,8 @@ https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-c
 
 *note: originally installed Rust via Homebrew and needed to re-install*
 
+
+```bash
 🎉 All exercises completed! 🎉
 
 +----------------------------------------------------+
@@ -59,7 +61,7 @@ https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-c
        ▒▒  ▒▒    ▒▒                  ▒▒    ▒▒  ▒▒
            ▒▒  ▒▒                      ▒▒  ▒▒
 
-
+```
 
 
 
