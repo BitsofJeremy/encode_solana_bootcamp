@@ -15,12 +15,22 @@ https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ
 
 ## Notes
 
-
-
+Covered
+ - IDL - Interface Description Language
+ - Cross Platform Invocation (CPI)
+ - Anchor Introduction
+ - Anchor dive in to code
 
 #### Links
 
+Anchor Docs:
+https://www.anchor-lang.com/docs/high-level-overview
 
+Anchor Book:
+https://book.anchor-lang.com
+
+Anchor install:
+https://book.anchor-lang.com/getting_started/installation.html
 
 
 
