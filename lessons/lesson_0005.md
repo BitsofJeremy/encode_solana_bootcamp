@@ -2,9 +2,8 @@
 
 
 see instructor notes as they are detailed and have screenshots:
-
-[Instructor Notes](../instructor_slide_notes_and_homework/Lesson5.pdf)
-[Homework](../instructor_slide_notes_and_homework/Homework5.pdf)
+ - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson5.pdf)
+ - [Homework](../instructor_slide_notes_and_homework/Homework5.pdf)
 
 
 ### Slido:
