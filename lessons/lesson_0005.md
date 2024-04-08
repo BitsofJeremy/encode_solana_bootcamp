@@ -39,6 +39,12 @@ https://medium.com/solana-labs/sealevel-parallel-processing-thousands-of-smart-c
 
 
 ```bash
+ cd homeworks_rust
+rustlings homework 5
+```
+
+
+```bash
 🎉 All exercises completed! 🎉
 
 +----------------------------------------------------+
