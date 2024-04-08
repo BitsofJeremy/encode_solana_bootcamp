@@ -4,8 +4,6 @@
 see instructor notes as they are detailed and have screenshots:
 
 [Instructor Notes](../instructor_slide_notes_and_homework/Lesson9.pdf)
-
-
 [Homework](../instructor_slide_notes_and_homework/Homework9.pdf)
 
 

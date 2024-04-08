@@ -1,12 +1,9 @@
 # Lesson 4 Notes and Links
 
 
-see instructor notes as they are detailed and have screenshots:
-
-[Instructor Notes](../instructor_slide_notes_and_homework/Lesson4.pdf)
-
-
-[Homework](../instructor_slide_notes_and_homework/Homework4.pdf)
+Instructor notes [they are detailed and have screenshots]:
+ - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson4.pdf)
+ - [Homework](../instructor_slide_notes_and_homework/Homework4.pdf)
 
 *update*
 

@@ -1,5 +1,12 @@
 # Lesson 03
 
+
+Instructor notes [they are detailed and have screenshots]:
+ - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson3.pdf)
+ - [Homework](../instructor_slide_notes_and_homework/Homework3.pdf)
+
+
+
 Notes from AI:
 https://otter.ai/u/Od1ldXu-7GqahOkFkPeyQ1wJeV8?utm_source=va_chat_link_1
 
