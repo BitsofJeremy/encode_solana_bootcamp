@@ -40,9 +40,9 @@ rustlings homework 7
 
 #### Playing in the playground
 
-![screenshot of playground]('../lessons/screenshot_lesson_07a.png')
+![screenshot of playground](../lessons/screenshot_lesson_07a.png)
 
-![screenshot of playground]('screenshot_lesson_07b.png')
+![screenshot of playground](../lessons/screenshot_lesson_07b.png)
 
 This is obnoxious for a playground to play in:
 
