@@ -1,5 +1,8 @@
 # Lesson 1 Notes and Links
 
+Hope you all enjoyed the first session! But in case you missed it, here's the recording:
+https://youtu.be/ixWmCB2Igkk
+
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson1.pdf)

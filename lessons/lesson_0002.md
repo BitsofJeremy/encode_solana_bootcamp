@@ -1,6 +1,10 @@
 
 # Lesson 2 links and more
 
+
+The second session is now up on YT! You can check it out here:
+https://youtu.be/bSEivS3yiBM
+
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson2.pdf)
  - [Homework](../instructor_slide_notes_and_homework/Homework2.pdf)

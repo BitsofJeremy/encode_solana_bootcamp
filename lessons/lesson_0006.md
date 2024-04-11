@@ -1,5 +1,9 @@
 # Lesson 6 Notes and Links
 
+The recording of Tuesday's session!
+https://youtu.be/E8k7ZSABy_k
+
+
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson6.pdf)

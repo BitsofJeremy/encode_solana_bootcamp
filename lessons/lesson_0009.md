@@ -1,5 +1,6 @@
 # Lesson 9 Notes and Links
 
+The latest session is now up on Youtube - check it out: https://youtu.be/xhH0WwgIvM8
 
 see instructor notes as they are detailed and have screenshots:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson9.pdf)

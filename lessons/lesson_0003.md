@@ -1,5 +1,8 @@
 # Lesson 03
 
+The latest session is now up on Youtube!
+
+🔗 https://youtu.be/MZJ1iXD48Qk
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson3.pdf)

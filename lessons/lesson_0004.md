@@ -1,6 +1,9 @@
 # Lesson 4 Notes and Links
 
 
+Hope you all enjoyed the last lesson of the week! In case you'd like to rewatch it, here is the recording:
+https://youtu.be/c8QklKua6-Y
+
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson4.pdf)
  - [Homework](../instructor_slide_notes_and_homework/Homework4.pdf)

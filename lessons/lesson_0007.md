@@ -1,5 +1,6 @@
 # Lesson 7 Notes and Links
 
+Hi hi everyone, the newest video is up: https://youtu.be/kjN7B7jJaTc
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson7.pdf)

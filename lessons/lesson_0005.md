@@ -1,5 +1,6 @@
 # Lesson 5 Notes and Links
 
+Here's the recording of yesterday's session: https://youtu.be/cbEyYIubaHI
 
 see instructor notes as they are detailed and have screenshots:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson5.pdf)
