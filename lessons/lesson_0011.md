@@ -1,5 +1,8 @@
 # Lesson 11 Notes and Links
 
+YouTube Video:
+https://youtu.be/3sULHpdYo_4
+
 
 see instructor notes as they are detailed and have screenshots:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson11.pdf)
