@@ -1,8 +1,7 @@
 # Lesson 1 Notes and Links
 
-Hope you all enjoyed the first session! But in case you missed it, here's the recording:
-https://youtu.be/ixWmCB2Igkk
-
+Notion site for session recording links on Youtube:
+https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson1.pdf)

@@ -1,6 +1,7 @@
 # Lesson 7 Notes and Links
 
-Hi hi everyone, the newest video is up: https://youtu.be/kjN7B7jJaTc
+Notion site for session recording links on Youtube:
+https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson7.pdf)

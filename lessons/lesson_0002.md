@@ -1,9 +1,9 @@
 
 # Lesson 2 links and more
 
+Notion site for session recording links on Youtube:
+https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
 
-The second session is now up on YT! You can check it out here:
-https://youtu.be/bSEivS3yiBM
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson2.pdf)

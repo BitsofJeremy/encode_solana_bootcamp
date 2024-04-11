@@ -1,8 +1,9 @@
 # Lesson 03
 
-The latest session is now up on Youtube!
 
-🔗 https://youtu.be/MZJ1iXD48Qk
+Notion site for session recording links on Youtube:
+https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
+
 
 Instructor notes [they are detailed and have screenshots]:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson3.pdf)

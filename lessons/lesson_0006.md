@@ -1,8 +1,7 @@
 # Lesson 6 Notes and Links
 
-The recording of Tuesday's session!
-https://youtu.be/E8k7ZSABy_k
-
+Notion site for session recording links on Youtube:
+https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
 
 
 Instructor notes [they are detailed and have screenshots]:
