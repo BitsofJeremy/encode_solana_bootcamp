@@ -15,10 +15,36 @@ https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ
 
 ## Notes
 
+Today's Topics
+ - Security
+ - Privacy on Solana
+ - Anchor design examples
+ - Versioned transactions
+ - Solidity and other languages
+ - Compressed NFTs
 
 
+Debugging Solana Programs
+• Pyth Oracle Network
+• Eclipse
+Anchor
+PDA and CPI
+• Further examples
 
 #### Links
 
+
+Rollups on zkSync [L2 on Ethereum]
+https://docs.zksync.io/build/developer-reference/rollups.html
+
+light Layer
+https://docs.lightprotocol.com/
+
+reclaim rent
+https://claimyoursol.com/
+
+
+Creating Compressed NFTs with JavaScript
+https://solana.com/developers/guides/javascript/compressed-nfts
 
 
