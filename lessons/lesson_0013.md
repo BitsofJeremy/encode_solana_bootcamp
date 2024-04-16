@@ -54,6 +54,14 @@ https://spl20.io
 solscribe
 https://www.solscribe.io/
 
+Token Extensions Enable Native Support for Enterprise-Grade Use Cases
+https://solana.com/news/token-extensions-on-solana
+
+
+Token Extensions: The New Era of Decentralized Finance Tokens Only on Solana
+https://medium.com/@keenyedavid/token-extensions-the-new-era-of-decentralized-finance-tokens-only-on-solana-3c7a7c7afc4c
+
+
 
 ## Homework
 

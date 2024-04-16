@@ -7,7 +7,7 @@ https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f
 see instructor notes as they are detailed and have screenshots:
  - [Instructor Notes](../instructor_slide_notes_and_homework/Lesson11.pdf)
  - [Homework](../instructor_slide_notes_and_homework/Homework11.pdf)
-
+ - [Homework Answers](../instructor_slide_notes_and_homework/Homework11Answers.pdf)
 
 ### Slido:
 https://app.sli.do/event/9bhfXBfjYd6QpmY3g8tQLZ

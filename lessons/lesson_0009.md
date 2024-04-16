@@ -1,5 +1,7 @@
 # Lesson 9 Notes and Links
 
+*** Homework 9 was updated 4/16/2024 ***
+
 Notion site for session recording links on Youtube:
 https://encodeclub.notion.site/aebb64ae7c7245f2a2cfd98da7dddfcf?v=328ebe0ce5754f2791eb8be1f19a9586
 
