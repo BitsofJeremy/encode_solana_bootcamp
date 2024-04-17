@@ -22,6 +22,16 @@ Today's Topics
  - Versioned transactions
  - Solidity and other languages
  - Compressed NFTs
+ - Debugging Solana Programs
+ - Pyth Oracle Network
+ - Eclipse
+ - Anchor
+ - PDA and CPI
+ - Further examples
+ - Anchor v 0.30.0
+ - Identity Solutions
+ - MEV
+ - Commitment Levels in
 
 
 #### Links
@@ -39,5 +49,10 @@ https://claimyoursol.com/
 
 Creating Compressed NFTs with JavaScript
 https://solana.com/developers/guides/javascript/compressed-nfts
+
+
+Introduction to Picasso Generalized Restaking Layer
+https://docs.picasso.network/technology/restaking/
+
 
 
