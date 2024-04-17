@@ -24,13 +24,6 @@ Today's Topics
  - Compressed NFTs
 
 
-Debugging Solana Programs
-• Pyth Oracle Network
-• Eclipse
-Anchor
-PDA and CPI
-• Further examples
-
 #### Links
 
 
