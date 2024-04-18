@@ -27,3 +27,26 @@ Today's topics
 
 
 #### Links
+
+Associated Token Account Program
+https://spl.solana.com/associated-token-account
+
+
+How to Airdrop Solana NFTs Using Metaplex and Gumdrop
+https://www.alchemy.com/overviews/how-to-airdrop-solana-nfts
+
+
+Distribute your own SPL token on Solana via Airdrop
+https://github.com/CreatorOS/airdrop-spl-token/blob/main/LEARN.md
+
+
+What is Candy Machine v2? A Complete Guide
+https://www.alchemy.com/overviews/candy-machine-v2
+
+
+Mobile SDK
+https://github.com/solana-mobile/solana-mobile-stack-sdk?ref=solana.ghost.io
+
+
+What is Firedancer on Solana?
+https://www.datawallet.com/crypto/firedancer-solana
